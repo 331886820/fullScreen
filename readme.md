@@ -2,6 +2,7 @@
 [NPM地址](https://www.npmjs.com/~yg331886820)  |
 [git源码](https://github.com/331886820/fullScreen) |
 [gitee源码](https://gitee.com/yg331886820/fullScreen)
+![20241017_110722](https://github.com/user-attachments/assets/77abd872-e806-4c5c-aeb2-e08faf0e8579)
 
 # 项目介绍
 本项目用于点击按钮或元素切换全屏或退出全屏，采用JS原生兼容写发适用大屏看板场景。具体可查看使用示例和使用帮助，有任何问题欢迎留言。
